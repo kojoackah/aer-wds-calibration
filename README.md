@@ -1,5 +1,5 @@
 # aer-wds-calibration
-Network Calibration via Automated Elevation Assignment- AER Regional Hydraulic Model
+Network Calibration via Automated Elevation Assignment
 
 ### Key Engineering Steps:
 
